@@ -1,4 +1,6 @@
 pandas
-import
+numpy
+scikit-learn
+statsmodels
 matplotlib
 seaborn
